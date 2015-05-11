@@ -1,1 +1,2 @@
-# bowser
+# IOS bowser for webRTC
+
